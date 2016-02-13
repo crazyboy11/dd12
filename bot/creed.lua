@@ -217,6 +217,7 @@ function create_config( )
     "gps",
     "auto_leave",
     "block",
+    "plugins",
     "tagall",
     "arabic_lock",
     "welcome",
@@ -230,13 +231,14 @@ function create_config( )
     "owners",
     "set",
     "get",
+    "calc",
     "broadcast",
     "download_media",
     "invite",
     "all",
     "leave_ban"
     },
-    sudo_users = {118682430},--Sudo users
+    sudo_users = {172178919},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Creed bot 2.3
